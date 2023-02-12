@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **BLOCKCHAIN FOR DATABASE & REACT NATIVE FOR MOBILE APPLICATION**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yogeshsaini97](https://github.com/yogeshsaini1997)
+- 👨‍💻 All of my projects are available at [https://github.com/yogeshsaini97](https://github.com/yogeshsaini97)
 
 - 💬 Ask me about **REACT,JAVASCRIPT,MERN TECH AND SOFTWARE RELATED STUFF**
 
