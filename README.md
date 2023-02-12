@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN STACK/FULL STACK DEVELOPER from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VIYNkS-Hsk6R7hChTDyUq3Q_D2-IsR-JvQ&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshsaini1997&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshsaini1997" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshsaini1997&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshsaini97" /> </p>
 
 - 🔭 I’m currently working on **ESG SOFTWARE**
 
